@@ -1,0 +1,2 @@
+# Fundamentos-de-Educa-o-Financeira-e-Reserva-de-Emerg-ncia
+Tema escolhido: Fundamentos de Educação Financeira e Reserva de Emergência.  Escolhi esse assunto por ser a base de qualquer decisão financeira mais avançada (investimentos, crédito, planejamento de longo prazo) e por existir farta documentação pública e confiável (bancos centrais, órgãos reguladores e instituições de pesquisa) que permite montar
